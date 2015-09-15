@@ -102,4 +102,4 @@ class BurpExtender(IBurpExtender,IContextMenuFactory):
             print "No results from Bing"
             pass
 
-        return 
+        return
