@@ -97,4 +97,4 @@ class BurpExtender(IBurpExtender,IContextMenuFactory):
             for password in self.mangle(word):
                 print password
 
-        return 
+        return
